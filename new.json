@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"animated1",
+         "name":"Animated (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"animated2",
+         "name":"Animated (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
          "identifier":"seriea2223f24",
          "name":"vs Empoli",
          "animated_sticker_pack":false,
