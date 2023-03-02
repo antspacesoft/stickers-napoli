@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"giovannisimeone1",
+         "name":"Giovanni Simeone",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"plantilla2223",
          "name":"Team 22/23",
          "animated_sticker_pack":false,
