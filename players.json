@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"eljifelmas1",
+         "name":"Eljif Elmas",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"hirvinglozano1",
+         "name":"Hirving Lozano",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"giovannisimeone1",
          "name":"Giovanni Simeone",
          "animated_sticker_pack":false,
