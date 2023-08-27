@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seriea2324f2a",
+         "name":"vs Sassuolo (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"seriea2324f2b",
+         "name":"vs Sassuolo (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"seriea2324f1a",
          "name":"vs Frosinone (1)",
          "animated_sticker_pack":false,
