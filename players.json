@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"team2023",
+         "name":"Team 2023",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
          "identifier":"alexmeret1",
          "name":"Alex Meret",
          "animated_sticker_pack":false,
@@ -44,6 +50,18 @@
          "name":"Osimhen Victor",
          "animated_sticker_pack":false,
          "stickers":"30"
+      },
+      {
+         "identifier":"team2022",
+         "name":"Team 2022",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"team2021",
+         "name":"Team 2021",
+         "animated_sticker_pack":false,
+         "stickers":"26"
       },
       {
          "identifier":"diegomaradona1",
