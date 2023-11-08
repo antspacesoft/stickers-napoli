@@ -3,8 +3,14 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2324fg4",
+         "name":"vs Union Berlin (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"ucl2324fg3",
-         "name":"vs Union Berlin",
+         "name":"vs Union Berlin (1)",
          "animated_sticker_pack":false,
          "stickers":"20"
       },
