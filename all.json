@@ -1,0 +1,540 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.napoli",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"euro2024fg3",
+         "name":"vs Croazia",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"euro2024fg1",
+         "name":"vs Albania",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"euro2024gol1",
+         "name":"Gol Italia",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"euro2024team1",
+         "name":"Italia Euro 2024",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"seriea2324f35",
+         "name":"vs Udinese",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"seriea2324f34",
+         "name":"vs Roma",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"seriea2324f32",
+         "name":"vs Frosinone",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"seriea2324f31",
+         "name":"vs Monza",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"seriea2324f27",
+         "name":"vs Juventus",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"seriea2324f21",
+         "name":"vs Sassuolo",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"seriea2324f26",
+         "name":"vs Cagliari",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"ucl2324o1",
+         "name":"vs Barcelona",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"seriea2324f25",
+         "name":"vs Genoa",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"seriea2324f23",
+         "name":"vs Verona",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"supercup2024s1",
+         "name":"vs Fiorentina",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"seriea2324f20",
+         "name":"vs Salernitana",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"seriea2324f16",
+         "name":"vs Cagliari",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"ucl2324fg6",
+         "name":"vs Braga (2)",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"seriea2324f13",
+         "name":"vs Atalanta",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"ucl2324fg4",
+         "name":"vs Union Berlin (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"kit2324d",
+         "name":"Kit 23-24 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
+      {
+         "identifier":"seriea2324f11",
+         "name":"vs Salernitana",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"seriea2324f10",
+         "name":"vs Milan",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"ucl2324fg3",
+         "name":"vs Union Berlin (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"seriea2324f9a",
+         "name":"vs Verona (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"seriea2324f9b",
+         "name":"vs Verona (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"seriea2324f7",
+         "name":"vs Lecce",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"seriea2324f6a",
+         "name":"vs Udinese (1)",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"seriea2324f6b",
+         "name":"vs Udinese (2)",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"team2023",
+         "name":"Team 2023",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"ucl2324fg1",
+         "name":"vs Braga (1)",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"seriea2324f4a",
+         "name":"vs Genoa (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"seriea2324f4b",
+         "name":"vs Genoa (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"kit2324c",
+         "name":"Kit 23-24 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"seriea2324f2a",
+         "name":"vs Sassuolo (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"seriea2324f2b",
+         "name":"vs Sassuolo (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"seriea2324f1a",
+         "name":"vs Frosinone (1)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"seriea2324f1b",
+         "name":"vs Frosinone (2)",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"seriea2223f38",
+         "name":"vs Sampdoria",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"kit2223a",
+         "name":"Kit 22-23 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"kit2223b",
+         "name":"Kit 22-23 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"seriea2223f37",
+         "name":"vs Bologna",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"seriea2223f36",
+         "name":"vs Inter",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"seriea2223f34a",
+         "name":"vs Fiorentina (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"seriea2223f34b",
+         "name":"vs Fiorentina (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"seriea2223w8",
+         "name":"Campioni 22-23 (8)",
+         "animated_sticker_pack":false,
+         "stickers":"6"
+      },
+      {
+         "identifier":"seriea2223w9",
+         "name":"Campioni 22-23 (9)",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"seriea2223w7",
+         "name":"Campioni 22-23 (7)",
+         "animated_sticker_pack":false,
+         "stickers":"6"
+      },
+      {
+         "identifier":"seriea2223w1",
+         "name":"Campioni 22-23 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"seriea2223w2",
+         "name":"Campioni 22-23 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"seriea2223w3",
+         "name":"Campioni 22-23 (3)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"seriea2223w4",
+         "name":"Campioni 22-23 (4)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"seriea2223w5",
+         "name":"Campioni 22-23 (5)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"seriea2223w6",
+         "name":"Campioni 22-23 (6)",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"seriea2223f33",
+         "name":"vs Udinese",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"seriea2223f32",
+         "name":"vs Salernitana",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"seriea2223f31",
+         "name":"vs Juventus",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"alexmeret1",
+         "name":"Alex Meret",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"seriea2223f29",
+         "name":"vs Lecce",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"animated3",
+         "name":"Animated (3)",
+         "animated_sticker_pack":true,
+         "stickers":"16"
+      },
+      {
+         "identifier":"seriea2223f27a",
+         "name":"vs Torino (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"seriea2223f27b",
+         "name":"vs Torino (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"ucl2223o2a",
+         "name":"vs Frankfurt (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"ucl2223o2b",
+         "name":"vs Frankfurt (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"eljifelmas1",
+         "name":"Eljif Elmas",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"hirvinglozano1",
+         "name":"Hirving Lozano",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"seriea2223f26a",
+         "name":"vs Atalanta (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"seriea2223f26b",
+         "name":"vs Atalanta (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"giovannisimeone1",
+         "name":"Giovanni Simeone",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"lucianospalletti1",
+         "name":"Luciano Spalletti",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"plantilla2223",
+         "name":"Team 22/23",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"animated1",
+         "name":"Animated (1)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"animated2",
+         "name":"Animated (2)",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"seriea2223f24",
+         "name":"vs Empoli",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"ucl2223o1",
+         "name":"vs Frankfurt",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"seriea2223f23a",
+         "name":"vs Sassuolo (1)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"seriea2223f23b",
+         "name":"vs Sassuolo (2)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"kit1",
+         "name":"Kit 1",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"club1",
+         "name":"Club 1",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"club2",
+         "name":"Club 2",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"kvaratskheliakhvicha1",
+         "name":"Kvaratskhelia Khvicha",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"osimhenvictor1",
+         "name":"Osimhen Victor 1",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"diegomaradona1",
+         "name":"Diego Maradona (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"diegomaradona2",
+         "name":"Diego Maradona (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"diegomaradona3",
+         "name":"Diego Maradona (3)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"ucl2223fg5",
+         "name":"vs Rangers FC",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"ucl2223fg4",
+         "name":"vs Ajax",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"team2022",
+         "name":"Team 2022",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"team2021",
+         "name":"Team 2021",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      }
+   ]
+}
