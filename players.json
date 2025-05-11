@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"giacomoraspadori1",
+         "name":"Giacomo Raspadori",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"scottmctominay1",
+         "name":"Scott McTominay",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"team2025",
+         "name":"Team 2025",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
          "identifier":"euro2024team1",
          "name":"Italia Euro 2024",
          "animated_sticker_pack":false,
