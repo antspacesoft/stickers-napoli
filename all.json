@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"seriea2425w3",
+         "name":"Campioni d’Italia (3)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"seriea2425w4",
+         "name":"Campioni d’Italia (4)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"seriea2425w5",
+         "name":"Campioni d’Italia (5)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"seriea2425w1",
          "name":"Campioni d’Italia (1)",
          "animated_sticker_pack":false,
