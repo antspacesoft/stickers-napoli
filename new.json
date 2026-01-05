@@ -2,12 +2,18 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.napoli",
    "ios_app_store_link":"",
    "sticker_packs":[
-     {
+      {
+        "identifier":"seriea2526f18",
+        "name":"vs Lazio",
+        "animated_sticker_pack":false,
+        "stickers":"18"
+      },
+      {
         "identifier":"seriea2526f17",
         "name":"vs Cremonese",
         "animated_sticker_pack":false,
         "stickers":"16"
-     },     
+      },
       {
          "identifier":"coppaitalia2526s1",
          "name":"vs Milan",
