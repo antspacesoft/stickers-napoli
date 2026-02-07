@@ -2,6 +2,12 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.napoli",
    "ios_app_store_link":"",
    "sticker_packs":[
+      {
+        "identifier":"seriea2526f24",
+        "name":"vs Genoa",
+        "animated_sticker_pack":false,
+        "stickers":"20"
+       },
        {
         "identifier":"seriea2526f23",
         "name":"vs Fiorentina",
@@ -13,13 +19,13 @@
         "name":"vs FC Copenhagen",
         "animated_sticker_pack":false,
         "stickers":"15"
-      }, 
+      },
        {
         "identifier":"seriea2526f21",
         "name":"vs Sassuolo",
         "animated_sticker_pack":false,
         "stickers":"20"
-      }, 
+      },
       {
         "identifier":"seriea2526f20",
         "name":"vs Inter",
