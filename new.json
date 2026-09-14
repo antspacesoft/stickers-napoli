@@ -3,6 +3,24 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2627polaroid1",
+         "name":"Napoli Portraits",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"ucl2627polaroid2",
+         "name":"Napoli Portraits (2)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+        {
+         "identifier":"ucl2627polaroid3",
+         "name":"Napoli Portraits (3)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
         "identifier":"seriea2627f4",
         "name":"vs Bologna",
         "animated_sticker_pack":false,
