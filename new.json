@@ -4,6 +4,12 @@
    "sticker_packs":[
       {
         "identifier":"seriea2627f6",
+        "name":"vs Bodo",
+        "animated_sticker_pack":false,
+        "stickers":"26"
+      },  
+      {
+        "identifier":"seriea2627f6",
         "name":"vs Frosinone",
         "animated_sticker_pack":false,
         "stickers":"22"
